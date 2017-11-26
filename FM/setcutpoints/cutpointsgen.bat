@@ -1,0 +1,2 @@
+cutpointsgen.py
+pause
