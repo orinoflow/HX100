@@ -1,2 +1,0 @@
-rmbuffer.py lyt
-pause

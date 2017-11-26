@@ -1,2 +1,0 @@
-tclgen.py
-pause

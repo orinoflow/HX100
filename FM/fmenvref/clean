@@ -1,3 +1,0 @@
-rm *.lck
-rm *.log
-rm -rf FM_WORK*
